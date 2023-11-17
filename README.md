@@ -10,3 +10,6 @@ FinBert
 
 
 https://medium.com/the-business-of-ai/nlp-for-banking-financial-services-50e7b0af3680
+
+Ideas:
+1. 
